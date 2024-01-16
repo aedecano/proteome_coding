@@ -1,4 +1,4 @@
-# proteome cooding
+# proteome coding
 
 **Q1.** Open the task1 folder in the tasks folder. The data assembly_1.prot.fa and assembly_2.prot.fa are proteins from the same organism but different assemblies. Disambiguate the proteins based on sequence similarity (e.g. using relatively relaxed mapping of 95% sequence identity and 0.9 coverage factor). Therefore create a new fasta file containing all proteins from the original two fasta files but where each individual sequence only appears once and both IDs for that sequence included in the fasta record.
 
